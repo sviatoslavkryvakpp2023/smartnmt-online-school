@@ -1,3 +1,9 @@
+[![CI/CD Pipeline](https://github.com/sviatoslavkryvakpp2023/smartnmt-online-school/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/sviatoslavkryvakpp2023/smartnmt-online-school/actions/workflows/ci-cd.yml)
+
+## Live Demo
+https://smartnmt-online-school-e519.vercel.app/
+
+
 # SmartNMT — онлайн-школа підготовки до НМТ
 
 SmartNMT — це frontend вебзастосунок онлайн-школи для підготовки до НМТ.  
