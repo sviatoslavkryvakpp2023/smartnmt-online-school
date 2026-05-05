@@ -224,7 +224,7 @@ export default function App() {
       markNotificationRead,
       showToast,
     }),
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+ 
     [currentUser, completedLessons, paidCourses, enrolledCourses, submissions, favoriteCourses, readNotifications]
   );
 

@@ -945,3 +945,12 @@ button { cursor: pointer; }
   .payment-methods { grid-template-columns: 1fr; }
   .not-found-code { font-size: 56px; }
 }
+
+
+
+
+.env-status {
+  color: #64748b;
+  font-size: 13px;
+  font-weight: 600;
+}
